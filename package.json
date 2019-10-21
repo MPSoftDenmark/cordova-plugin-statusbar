@@ -15,10 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-plugin-statusbar"
+    "url": "https://github.com/MPSoftDenmark/cordova-plugin-statusbar"
   },
   "bugs": {
-    "url": "https://github.com/apache/cordova-plugin-statusbar/issues"
+    "url": "https://github.com/MPSoftDenmark/cordova-plugin-statusbar/issues"
   },
   "keywords": [
     "cordova",
